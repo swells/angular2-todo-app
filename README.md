@@ -15,6 +15,7 @@ This project was generated with [angular-cli](https://github.com/angular/angular
    $ git clone 
    ```
 - Install and set up the `angular2-todo-app`:
+
    ```bash
    $ cd angular2-todo-app
    $ npm install
