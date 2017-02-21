@@ -1,5 +1,4 @@
 import { NgModule } from '@angular/core';
-//import { Component, OnInit } from '@angular/core'; // SW
 import { BrowserModule } from '@angular/platform-browser';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { HttpModule } from '@angular/http';
@@ -13,7 +12,7 @@ import { TodoAppComponent } from './todo-app/todo-app.component';
   ],
   imports: [
     BrowserModule,
-    FormsModule,    
+    FormsModule,
     HttpModule
   ],
   providers: [],
